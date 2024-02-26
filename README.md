@@ -21,7 +21,7 @@ I am always open to collaborative projects and enjoy working with diverse teams 
 
 ## Contact Me
 - [My Linkedin](https://www.linkedin.com/in/hayah-ubaid/)
-- My email: hayahubaid@gmail.com
+- My email: hayahubaid1@gmail.com
 <!---
 hayahubaid03/hayahubaid03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
