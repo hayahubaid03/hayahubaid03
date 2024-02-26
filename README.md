@@ -13,6 +13,7 @@ Programming Languages: Python, C, C++, MATLAB, x86-64 Assembly, DrRacket
 Frameworks and Technologies: Visual Studio, UNIX, Flask, APIs, Generative AI, LLMs, PyTorch, TensorFlow, Matplotlib, NumPy, OpenAI, Pandas
 
 ## My Projects
+- [Diffused Binary Bomb](https://github.com/hayahubaid03/Diffused-Binary-Bomb)
 - [Open Street Map Navigation Tool](https://github.com/hayahubaid03/OpenStreetMap-Navigation-tool)
 - [Trip Planner](https://github.com/hayahubaid03/Trip-Planner)
 
