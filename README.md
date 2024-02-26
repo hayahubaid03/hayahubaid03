@@ -14,6 +14,8 @@ I am always open to collaborative projects and enjoy working with diverse teams 
 
 ## My Projects
 - [Diffused Binary Bomb](https://github.com/hayahubaid03/Diffused-Binary-Bomb)
+- [Pack Lab](https://github.com/hayahubaid03/PackLab)
+- [Data Analysis and Visualization Tool](https://github.com/hayahubaid03/Data-Analysis-Visualization-Tool)
 - [Open Street Map Navigation Tool](https://github.com/hayahubaid03/OpenStreetMap-Navigation-tool)
 - [Trip Planner](https://github.com/hayahubaid03/Trip-Planner)
 
