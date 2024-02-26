@@ -9,8 +9,8 @@ I am always open to collaborative projects and enjoy working with diverse teams 
 - Fundamentals of Computer Programming 1 (DrRacket), Fundamentals of Computer Programming 1.5 (Python), Fundamentals of Computer Programming 2 (C, C++), Data Structures & Algorithms, Introduction to Probability and Statistics, Engineering Analysis 1 (MATLAB and linear algebra), and Introduction to Computer Systems.
 - Spring 2024: Machine Learning
 ## Technical Skills
-Programming Languages: Python, C, C++, MATLAB, x86-64 Assembly, DrRacket
-Frameworks and Technologies: Visual Studio, UNIX, Flask, APIs, Generative AI, LLMs, PyTorch, TensorFlow, Matplotlib, NumPy, OpenAI, Pandas
+- Programming Languages: Python, C, C++, MATLAB, x86-64 Assembly, DrRacket
+- Frameworks and Technologies: Visual Studio, UNIX, Flask, APIs, Generative AI, LLMs, PyTorch, TensorFlow, Matplotlib, NumPy, OpenAI, Pandas
 
 ## My Projects
 - [Diffused Binary Bomb](https://github.com/hayahubaid03/Diffused-Binary-Bomb)
