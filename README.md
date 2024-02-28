@@ -10,7 +10,7 @@ I am always open to collaborative projects and enjoy working with diverse teams 
 - Spring 2024: Machine Learning
 ## Technical Skills
 - Programming Languages: Python, C, C++, MATLAB, x86-64 Assembly, DrRacket
-- Frameworks and Technologies: Visual Studio, UNIX, Flask, APIs, Generative AI, LLMs, PyTorch, TensorFlow, Matplotlib, NumPy, OpenAI, Pandas
+- Frameworks and Technologies: Visual Studio, UNIX, Flask, APIs, Generative AI, LLMs, PyTorch, TensorFlow, Matplotlib, NumPy, OpenAI, Pandas, GNU debugger
 
 ## My Projects
 - [Diffused Binary Bomb](https://github.com/hayahubaid03/Diffused-Binary-Bomb)
