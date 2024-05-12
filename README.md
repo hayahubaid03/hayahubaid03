@@ -17,7 +17,7 @@ I am always open to collaborative projects and enjoy working with diverse teams 
 - [Pack Lab](https://github.com/hayahubaid03/PackLab)
 - [Data Analysis and Visualization Tool](https://github.com/hayahubaid03/Data-Analysis-Visualization-Tool)
 - [Open Street Map Navigation Tool](https://github.com/hayahubaid03/OpenStreetMap-Navigation-tool)
-- [Trip Planner](https://github.com/hayahubaid03/Trip-Planner)
+
 
 ## Contact Me
 - [My Linkedin](https://www.linkedin.com/in/hayah-ubaid/)
